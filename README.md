@@ -53,6 +53,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuhedshaikh95&show_icons=true&locale=en" alt="zuhedshaikh95" /></p>
 
+<br />
+<br />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuhedshaikh95" alt="zuhedshaikh95" /></a> </p>
 
 <br />
