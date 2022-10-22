@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuhedshaikh95&show_icons=true&locale=en" alt="zuhedshaikh95" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhedshaikh95&" alt="zuhedshaikh95" /></p>
+![Profile views](https://gpvc.arturio.dev/zuhedshaikh95) 
