@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zuhed Shaikh</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<img width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img width="400" style="text-align: center;" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuhedshaikh95" alt="zuhedshaikh95" /></a> </p>
 
