@@ -21,7 +21,7 @@
 - 💼 <a href="https://zuhedshaikh95.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </div>
 <div>
-<img width="400" style="text-align: center;" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img width="300" style="text-align: center;" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
 </div>
 
