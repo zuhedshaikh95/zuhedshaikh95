@@ -4,6 +4,13 @@
 <br />
 <br />
 
+<div style="width: 100%; margin: auto;">
+<img width="600" style="text-align: center;" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
+
+<br />
+<br />
+
 <div style="display: flex; justify-content: space-between;">
 <div>
 - 🌱 I’m currently learning at **Masai School**
@@ -19,9 +26,6 @@
 - 📄 <a href="https://drive.google.com/file/d/1DE_dW_D0oCdBRi9u2jzJZzLicqwiXOes/view?usp=sharing](https://drive.google.com/file/d/1DE_dW_D0oCdBRi9u2jzJZzLicqwiXOes/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
 
 - 💼 <a href="https://zuhedshaikh95.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>
-</div>
-<div>
-<img width="600" style="text-align: center;" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
 </div>
 
