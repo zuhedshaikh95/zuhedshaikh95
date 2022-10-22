@@ -4,7 +4,7 @@
 <br />
 <br />
 
-<div style="width: 100%; margin: auto;">
+<div style="width: 100%; margin: auto; display: flex; justify-content: center;">
 <img width="600" style="text-align: center;" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
 
