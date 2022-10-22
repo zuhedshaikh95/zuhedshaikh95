@@ -21,7 +21,7 @@
 - 💼 <a href="https://zuhedshaikh95.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </div>
 <div>
-<img width="300" style="text-align: center;" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img width="600" style="text-align: center;" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </div>
 </div>
 
@@ -48,12 +48,12 @@
 <br />
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuhedshaikh95" alt="zuhedshaikh95" /></a> </p>
-
-<br />
-<br />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuhedshaikh95&show_icons=true&locale=en" alt="zuhedshaikh95" /></p>
+
+<br />
+<br />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuhedshaikh95" alt="zuhedshaikh95" /></a> </p>
 
 <br />
 <br />
