@@ -11,6 +11,16 @@
 <br />
 <br />
 
+<p align="left">
+    <a href="https://github.com/zuhedshaikh95">
+        <img src="https://komarev.com/ghpvc/?username=zuhedshaikh95&label=Profile%20views&color=0e75b6&style=flat" alt="zuhedshaikh95" />
+    </a>
+    <a href="https://github.com/zuhedshaikh95?tab=followers">
+        <img src="https://img.shields.io/github/followers/zuhedshaikh95?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+<br>
+
 <div style="display: flex; justify-content: space-between;">
 <div>
 - 🌱 I’m currently learning at **Masai School**
