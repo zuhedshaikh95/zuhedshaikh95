@@ -9,16 +9,14 @@
         <img src="https://img.shields.io/github/followers/zuhedshaikh95?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
-<img src="https://i.imgur.com/UzwPnWi.gifv" alt="github-banner" />
+
+<img src="https://i.imgur.com/UzwPnWi.gif" alt="github-banner" />
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-<div>
+- 👯 I’m looking to collaborate on **MERN Stack**
 
-- 👯 I’m looking to collaborate on MERN Stack
-
-- 🌱 I’m currently learning at Masai School
+- 🌱 I’m currently learning at **Masai School**
 
 - 👨‍💻 All of my projects are available at [https://zuhedshaikh95.github.io/](https://zuhedshaikh95.github.io/)
 
@@ -27,8 +25,7 @@
 - 📄 [Resume](https://drive.google.com/file/d/15npacxE1asEBm1lmFosyRuWoy9npXdCt/view?usp=share_link)
 
 - 💼 [Portfolio](https://zuhedshaikh95.github.io/)
-</div>
-</div>
+
 <br />
 <br />
 
