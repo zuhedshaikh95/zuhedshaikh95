@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/github/followers/zuhedshaikh95?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
-<img src="[https://i.imgur.com/PruXnTl.png](https://i.imgur.com/UzwPnWi.gifv)" alt="github-banner" />
+<img src="https://i.imgur.com/UzwPnWi.gifv" alt="github-banner" />
 
 <br>
 
