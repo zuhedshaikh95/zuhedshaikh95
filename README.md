@@ -27,7 +27,6 @@
 - 💼 [Portfolio](https://zuhedshaikh95.github.io/)
 
 <br />
-<br />
 
 <h2 align="left">🔍 Connect with me:</h2>
 
