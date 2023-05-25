@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **<a href="mailto:zuhed95@gmail.com">zuhed95@gmail.com</a>**
 
-- 📄 [Resume](https://drive.google.com/file/d/15npacxE1asEBm1lmFosyRuWoy9npXdCt/view?usp=share_link)
+- 📄 [Resume](https://drive.google.com/file/d/1Z01YkXK7b87bPwefyyuYmk8QkWUwR_QR/view)
 
 - 💼 [Portfolio](https://zuhedshaikh95.github.io/)
 
