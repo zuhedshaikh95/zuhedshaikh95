@@ -16,15 +16,13 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
-- 🌱 I’m currently learning at **Masai School**
+- 🌱 I’m currently looking for  **Opportunities**
 
-- 👨‍💻 All of my projects are available at [https://zuhedshaikh95.github.io/](https://zuhedshaikh95.github.io/)
+- 👨‍💻 All of my projects are available at [https://zuhedshaikh95.github.io](https://zuhedshaikh95.github.io)
 
 - 📫 How to reach me **<a href="mailto:zuhed95@gmail.com">zuhed95@gmail.com</a>**
 
 - 📄 [Resume](https://drive.google.com/file/d/1Z01YkXK7b87bPwefyyuYmk8QkWUwR_QR/view)
-
-- 💼 [Portfolio](https://zuhedshaikh95.github.io/)
 
 <br />
 <br />
