@@ -25,7 +25,6 @@
 - 📄 [Resume](https://drive.google.com/file/d/1Z01YkXK7b87bPwefyyuYmk8QkWUwR_QR/view)
 
 <br />
-<br />
 
 <h2 align="left">🔍 Connect with me:</h2>
 <p align="left">
@@ -34,7 +33,6 @@
 <a href="https://auth.geeksforgeeks.org/user/zuhedshaikh95/" target="_blank" style="margin: 0 15px;"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="zuhedshaikh95" height="50" width="50" /></a>
 </p>
 
-<br />
 <br />
 
 <h2 align="left">⚡ Languages and Tools:</h2>
@@ -67,7 +65,6 @@
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br />
 <br />
 
 <h2 align='left'>📊 My Github Stats</h2>
